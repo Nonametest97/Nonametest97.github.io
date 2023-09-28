@@ -1,0 +1,4 @@
+/* hide vue syntax before render */
+[v-cloak] {
+    display: none;
+  }
