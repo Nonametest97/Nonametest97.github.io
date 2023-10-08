@@ -1,4 +1,5 @@
 configData = {
+    debug : true,
     top_logo : {
         left : "Your",
         right : "Name"
@@ -13,6 +14,6 @@ configData = {
                 name: "USD",
             }
         ],
-        selected : "USD"
+        selected : "USD",
     }
 }
